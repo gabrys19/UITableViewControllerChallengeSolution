@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  UISolutionTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Gabriel Niedzialek on 03.04.2015.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface UISolutionTableViewController : UITableViewController
 
 @end
-
